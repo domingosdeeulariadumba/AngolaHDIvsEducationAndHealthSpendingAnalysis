@@ -8,7 +8,7 @@ SCOPE
 BUSINESS PROBLEM
 ![idh problem](https://github.com/domingosdeeulariadumba/AngolaHDIvsEducationAndHealthSpendingAnalysis/assets/110714056/17da201c-b726-4c65-953c-11c3f20465a9)
 
-GOALS
+GOAL
 ![idh goals](https://github.com/domingosdeeulariadumba/AngolaHDIvsEducationAndHealthSpendingAnalysis/assets/110714056/45beb4f9-a816-4788-a4ff-9e2e452c46f0)
 
 APPROACH
